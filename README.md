@@ -21,9 +21,8 @@ By default the Chrome window is muted so that when the bot tries all the words i
 # Features
 The bot is current configured to grab new words as fast as possible and it will constantly try and steal opponent's words and improve its own
 
-A demo video
-https://user-images.githubusercontent.com/68296986/132135677-dfb50184-b30c-4f09-8a02-417349d02833.mp4
-
+A demo
+![grabble-demo](https://user-images.githubusercontent.com/68296986/132135716-05f2a73e-edf0-44af-b91a-50fb2884729d.gif)
 
 # Troubleshooting
 If the Chrome window does not open, then open your normal google chrome and check what version (`9x.x.xxxx.xxx`) you have (you can find this in the about tab in settings) 
