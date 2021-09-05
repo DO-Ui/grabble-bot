@@ -17,6 +17,14 @@ It should open a new Chrome window with grabble open
 
 By default the Chrome window is muted so that when the bot tries all the words it finds it doesnt make a loud noise
 
+
+# Features
+The bot is current configured to grab new words as fast as possible and it will constantly try and steal opponent's words and improve its own
+
+A demo video
+https://user-images.githubusercontent.com/68296986/132135677-dfb50184-b30c-4f09-8a02-417349d02833.mp4
+
+
 # Troubleshooting
 If the Chrome window does not open, then open your normal google chrome and check what version (`9x.x.xxxx.xxx`) you have (you can find this in the about tab in settings) 
 
